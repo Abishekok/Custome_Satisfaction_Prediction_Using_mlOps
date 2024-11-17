@@ -1,0 +1,12 @@
+"zenml["server"]"
+pandas
+scikit-learn
+
+# Dev environment
+
+pip install --upgrade pip
+pip
+autopep8
+
+# App
+flask
